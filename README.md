@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Overview  
-This repository contains the complete code for a multi-page responsive restaurant website developed during my internship at **Culinary Creations Studio**. The project highlights my ability to design and implement modern, user-friendly web pages that cater to both customers and administrative users.  
+This repository contains the complete code for a multi-page responsive restaurant website developed during my internship at **Brainwave Matrix Solutions**. The project highlights my ability to design and implement modern, user-friendly web pages that cater to both customers and administrative users.  
 
 ---
 
